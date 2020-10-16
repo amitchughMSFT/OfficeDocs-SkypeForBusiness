@@ -72,7 +72,7 @@ Begin by following the steps below:
 - **contentUrl**: {{siteUrl}}/_layouts/15/teamslogon.aspx?SPFX=true&dest={{sitePath}}  
 - **websiteUrl**: {{siteUrl}}
 
-    Example **contentURL**: https://contoso.sharepoint.com/sites/ContosoHub/_layouts/15/teamslogon.aspx?SPFX=true&dest=/sites/ContosoHub
+    Example **contentURL**: https://contoso.sharepoint.com/_layouts/15/teamslogon.aspx?SPFX=true&dest=/sites/ContosoHub/SitePages/Home.aspx
 
 11. Navigate to **Domains and Permissions**. Make sure the valid domains section contains your SharePoint online domain name.
 
